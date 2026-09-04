@@ -6,3 +6,5 @@ Our data contains sensitive pseudonymized health information, thus according to 
 Code cohort_building, follow_up, Participation_index, and test_number_fu are for data curation
 
 Rest are for data analysis
+
+Software SAS 9.4
